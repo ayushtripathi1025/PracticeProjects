@@ -1,0 +1,1 @@
+Welcome to my Practice Projects repository! This repository is a collection of small, self-contained projects that I've worked on to practice and improve my skills in JavaScript, HTML, CSS, and front-end development.
